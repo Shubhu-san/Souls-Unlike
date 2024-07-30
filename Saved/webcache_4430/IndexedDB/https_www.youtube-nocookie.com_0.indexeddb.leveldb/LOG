@@ -1,2 +1,7 @@
-2024/07/22-17:41:28.933 4cdc Creating DB D:/Unreal Engine/Unreal Projects/Souls_Unlike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/07/22-17:41:28.943 4cdc Reusing MANIFEST D:/Unreal Engine/Unreal Projects/Souls_Unlike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/29-19:15:42.635 2168 Reusing MANIFEST D:/Unreal Engine/Unreal Projects/Souls_Unlike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/29-19:15:42.642 2168 Recovering log #3
+2024/07/29-19:15:42.642 2168 Reusing old log D:/Unreal Engine/Unreal Projects/Souls_Unlike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/07/29-19:32:26.008 4bc4 Level-0 table #5: started
+2024/07/29-19:32:26.014 4bc4 Level-0 table #5: 1211 bytes OK
+2024/07/29-19:32:26.015 4bc4 Delete type=0 #3
+2024/07/29-19:32:26.015 4bc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
